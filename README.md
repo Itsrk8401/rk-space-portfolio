@@ -1,2 +1,2 @@
 # rk-space-portfolio
-A interstellar themed portfolio
+An interstellar themed portfolio
